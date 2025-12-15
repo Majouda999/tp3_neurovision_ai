@@ -472,3 +472,13 @@ footer {
     height: 100%;
     border: none;
 }
+
+.btn {
+    transition: all 0.2s ease;
+}
+
+.btn:hover {
+    opacity: 0.9;
+    transform: scale(1.03);
+}
+
